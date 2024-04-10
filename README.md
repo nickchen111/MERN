@@ -17,7 +17,8 @@
                               遇到兩個一樣的課名,只能刪除自己的,點選其他人的課程刪除會沒反應
  * 登入後的學生profile: ![image](https://github.com/nickchen111/MERN/blob/main/img/%E5%AD%B8%E7%94%9F%E7%AB%AF%E7%99%BB%E5%85%A5profile.png)
    * 學生註冊課程與成功註冊: ![image](https://github.com/nickchen111/MERN/blob/main/img/%E5%AD%B8%E7%94%9F%E8%A8%BB%E5%86%8A%E8%AA%B2%E7%A8%8B.png)
-* 學生註冊的課程頁面: ![image](https://github.com/nickchen111/MERN/blob/main/img/%E5%AD%B8%E7%94%9F%E8%A8%BB%E5%86%8A%E8%AA%B2%E7%A8%8B%E9%A0%81%E9%9D%A2.png)
+* 學生註冊的課程頁面: ![image](https://github.com/nickchen111/MERN/
+* blob/main/img/%E5%AD%B8%E7%94%9F%E8%A8%BB%E5%86%8A%E8%AA%B2%E7%A8%8B%E9%A0%81%E9%9D%A2.png)
                    可以看到自己註冊了哪些課程、課程學生人數、價格與課程介紹
 
   
