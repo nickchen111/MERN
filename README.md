@@ -8,8 +8,17 @@
   * 會員登入: ![image](https://github.com/nickchen111/MERN/blob/main/img/%E6%9C%83%E5%93%A1%E7%99%BB%E5%85%A5.png)
     * 會員註冊失敗(信箱錯誤): ![image](https://github.com/nickchen111/MERN/blob/main/img/%E6%9C%83%E5%93%A1%E7%99%BB%E5%85%A5%E5%A4%B1%E6%95%97%E5%B8%B3%E8%99%9F.png)
     * 會員註冊失敗(密碼錯誤): ![image](https://github.com/nickchen111/MERN/blob/main/img/%E6%9C%83%E5%93%A1%E7%99%BB%E5%85%A5%E5%A4%B1%E6%95%97%E5%AF%86%E7%A2%BC.png)
-    * 登入後的講師profile : ![image](https://github.com/nickchen111/MERN/blob/main/img/%E7%99%BB%E5%85%A5%E6%88%90%E5%8A%9F%E8%AC%9B%E5%B8%ABprofile.png)
-    
+  * 登入後的講師profile: ![image](https://github.com/nickchen111/MERN/blob/main/img/%E7%99%BB%E5%85%A5%E6%88%90%E5%8A%9F%E8%AC%9B%E5%B8%ABprofile.png)
+  * 講師的課程: ![image](https://github.com/nickchen111/MERN/blob/main/img/%E8%AC%9B%E5%B8%AB%E8%AA%B2%E7%A8%8B%E9%A0%81%E9%9D%A2.png)
+              可以看到自己有哪些課程、課程學生人數、價格與課程介紹
+    * 講師新增課程功能與成功新增: ![image](https://github.com/nickchen111/MERN/blob/main/img/%E6%96%B0%E5%A2%9E%E8%AA%B2%E7%A8%8B.png)
+    * 講師更新課程功能與成功更新: ![image](https://github.com/nickchen111/MERN/blob/main/img/%E6%9B%B4%E6%96%B0%E6%88%90%E5%8A%9F%E9%80%9A%E7%9F%A5.png)
+    * 講師刪除課程功能與成功刪除: ![image](https://github.com/nickchen111/MERN/blob/main/img/%E5%88%AA%E9%99%A4%E6%88%90%E5%8A%9F%E9%80%9A%E7%9F%A5.png)
+                              遇到兩個一樣的課名,只能刪除自己的,點選其他人的課程刪除會沒反應
+ * 登入後的學生profile: ![image](https://github.com/nickchen111/MERN/blob/main/img/%E5%AD%B8%E7%94%9F%E7%AB%AF%E7%99%BB%E5%85%A5profile.png)
+   * 學生註冊課程與成功註冊: ![image](https://github.com/nickchen111/MERN/blob/main/img/%E5%AD%B8%E7%94%9F%E8%A8%BB%E5%86%8A%E8%AA%B2%E7%A8%8B.png)
+* 學生註冊的課程頁面: ![image](https://github.com/nickchen111/MERN/blob/main/img/%E5%AD%B8%E7%94%9F%E8%A8%BB%E5%86%8A%E8%AA%B2%E7%A8%8B%E9%A0%81%E9%9D%A2.png)
+                   可以看到自己註冊了哪些課程、課程學生人數、價格與課程介紹
 * Website layout
 // MERN 專案 Mongod  express reaact node node.js 建構server-side react建構client-side mongodb做為資料庫管理系統 儲存用戶以及課程資料 ,/ React框架設計 route 版面 並且用state lifting 技術去讓程式碼更簡潔好維護, / 邏輯判斷使用者是誰才會顯示特定的功能選單 以及在特定功能都會去做身份認證 / 做身份認證與授權 每個用戶都可以決定是要選擇instructor or student
 
