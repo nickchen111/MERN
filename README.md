@@ -5,6 +5,7 @@
   * 網站首頁: ![image](https://github.com/nickchen111/MERN/blob/main/img/%E7%B6%B2%E7%AB%99%E9%A6%96%E9%A0%81.png)
   * 註冊會員功能:  ![image](https://github.com/nickchen111/MERN/blob/main/img/%E8%A8%BB%E5%86%8A%E6%9C%83%E5%93%A1.png)
     * 註冊成功畫面 並且註冊為講師: ![image](https://github.com/nickchen111/MERN/blob/main/img/%E8%A8%BB%E5%86%8A%E6%88%90%E5%8A%9F.png)
+  * 會員註冊失敗(信箱錯誤): ![image](https://github.com/nickchen111/MERN/blob/main/img/%E6%9C%83%E5%93%A1%E7%99%BB%E5%85%A5%E5%A4%B1%E6%95%97%E5%B8%B3%E8%99%9F.png)
   * 登入後的講師profile : ![image](https://github.com/nickchen111/MERN/blob/main/img/%E7%99%BB%E5%85%A5%E6%88%90%E5%8A%9F%E8%AC%9B%E5%B8%ABprofile.png)
   * 
 * Website layout
