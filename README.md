@@ -31,3 +31,27 @@
 
 
 # English Version
+* **Website Functionality:** Created a website with registration and login capabilities. Users can register as members of the website and choose between two identities: teacher or student. Teachers can publish, edit, and delete their courses on the platform, while students can register for courses.
+
+* **Website Layout and Functionality Overview:**
+  * **Homepage:** ![image](https://github.com/nickchen111/MERN/blob/main/img/%E7%B6%B2%E7%AB%99%E9%A6%96%E9%A0%81.png)
+  * **Member Registration:** ![image](https://github.com/nickchen111/MERN/blob/main/img/%E8%A8%BB%E5%86%8A%E6%9C%83%E5%93%A1.png)
+    * **Registration Success as Instructor:** ![image](https://github.com/nickchen111/MERN/blob/main/img/%E8%A8%BB%E5%86%8A%E6%88%90%E5%8A%9F.png)
+  * **Member Login:** ![image](https://github.com/nickchen111/MERN/blob/main/img/%E6%9C%83%E5%93%A1%E7%99%BB%E5%85%A5.png)
+    * **Member Registration Failed (Incorrect Email):** ![image](https://github.com/nickchen111/MERN/blob/main/img/%E6%9C%83%E5%93%A1%E7%99%BB%E5%85%A5%E5%A4%B1%E6%95%97%E5%B8%B3%E8%99%9F.png)
+    * **Member Registration Failed (Incorrect Password):** ![image](https://github.com/nickchen111/MERN/blob/main/img/%E6%9C%83%E5%93%A1%E7%99%BB%E5%85%A5%E5%A4%B1%E6%95%97%E5%AF%86%E7%A2%BC.png)
+  * **Instructor Profile after Login:** ![image](https://github.com/nickchen111/MERN/blob/main/img/%E7%99%BB%E5%85%A5%E6%88%90%E5%8A%9F%E8%AC%9B%E5%B8%ABprofile.png)
+  * **Teacher's Courses:** ![image](https://github.com/nickchen111/MERN/blob/main/img/%E8%AC%9B%E5%B8%AB%E8%AA%B2%E7%A8%8B%E9%A0%81%E9%9D%A2.png)
+    * **Add Course Functionality and Success:** ![image](https://github.com/nickchen111/MERN/blob/main/img/%E6%96%B0%E5%A2%9E%E8%AA%B2%E7%A8%8B.png)
+    * **Update Course Functionality and Success:** ![image](https://github.com/nickchen111/MERN/blob/main/img/%E6%9B%B4%E6%96%B0%E6%88%90%E5%8A%9F%E9%80%9A%E7%9F%A5.png)
+    * **Delete Course Functionality and Success:** ![image](https://github.com/nickchen111/MERN/blob/main/img/%E5%88%AA%E9%99%A4%E6%88%90%E5%8A%9F%E9%80%9A%E7%9F%A5.png)
+      Encounters with duplicate course names will only allow deletion of the user's own courses; attempting to delete others' courses will have no effect.
+  * **Student Profile after Login:** ![image](https://github.com/nickchen111/MERN/blob/main/img/%E5%AD%B8%E7%94%9F%E7%AB%AF%E7%99%BB%E5%85%A5profile.png)
+    * **Student Course Registration and Success:** ![image](https://github.com/nickchen111/MERN/blob/main/img/%E5%AD%B8%E7%94%9F%E8%A8%BB%E5%86%8A%E8%AA%B2%E7%A8%8B.png)
+
+* **Technical Details:**
+  * **MERN Project Technologies:** Node.js for server-side development, React for client-side development, MongoDB as the database management system for storing user and course data.
+  * **Route and Web Page Design:** Designed routes and web pages using the React framework and employed state lifting techniques to simplify code and maintenance.
+  * **User Role-Based Functionality:** Implemented logic checks on specific feature menu pages to display or enable specific features based on user roles.
+  * **Authentication and Authorization:** Implemented authentication and authorization, allowing users to choose between registering or logging in as instructors or students.
+
